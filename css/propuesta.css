@@ -1,19 +1,62 @@
-
-.sensorial{
+.acompañamiento {
     width: 250px;
     border: 2 2 2 2;
-    margin-top: 5px; color: ;
+    margin-top: 5px;
+    box-shadow: 0 4px 8px rgba(2, 2, 2, 2.2);
 }
-.acompañamiento{
+
+.sensorial {
+    width: 250px;
+    border: 2 2 2 2;
+    margin-top: 5px;
+    box-shadow: 0 4px 8px rgba(2, 2, 2, 2.2);
+}
+
+.list1 {
+    flex-wrap: wrap;
+    color: #8338ec;
+    margin: 20 15 20 15;
+    font-size: 25px;
+    padding: 15px;
+}
+
+.logo {
     width: 250px;
     border: 2 2 2 2;
     margin-top: 5px;
 }
-.list1{
+
+.list2 {
     flex-wrap: wrap;
     color: #8338ec;
-    margin: 20 15 20 15 ;
-    font-size: 40px;
+    margin: 20 15 20 15;
+    font-size: 25px;
+    padding: 15px;
+
+}
+
+.caja1 {
+    background-color: #dda6d8;
     padding: 20px;
-    box-shadow: #ffbe0b;
+    border-radius: 15px;
+    width: 250px;
+    margin: 15px auto;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(2, 2, 2, 2.2);
+}
+
+.caja2 {
+    background-color: #dda6d8;
+    padding: 20px;
+    border-radius: 15px;
+    width: 250px;
+    margin: 25px auto;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(2, 2, 2, 2.2);
+}
+.rutina{
+    width: 250px;
+    border: 2 2 2 2;
+    margin-top: 5px;
+    box-shadow: 0 4px 8px rgba(2, 2, 2, 2.2);
 }
